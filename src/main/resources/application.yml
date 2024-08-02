@@ -1,1 +1,4 @@
-
+#for aws 
+server:
+ port:
+  5000
